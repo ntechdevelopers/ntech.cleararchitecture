@@ -1,0 +1,14 @@
+E:\LocalGit\CleanArchitecture\Ntech\Ntech\Ntech.Infrastructure.Shared\bin\Debug\netcoreapp3.1\Ntech.Infrastructure.Shared.deps.json
+E:\LocalGit\CleanArchitecture\Ntech\Ntech\Ntech.Infrastructure.Shared\bin\Debug\netcoreapp3.1\Ntech.Infrastructure.Shared.dll
+E:\LocalGit\CleanArchitecture\Ntech\Ntech\Ntech.Infrastructure.Shared\bin\Debug\netcoreapp3.1\Ntech.Infrastructure.Shared.pdb
+E:\LocalGit\CleanArchitecture\Ntech\Ntech\Ntech.Infrastructure.Shared\bin\Debug\netcoreapp3.1\Ntech.Application.dll
+E:\LocalGit\CleanArchitecture\Ntech\Ntech\Ntech.Infrastructure.Shared\bin\Debug\netcoreapp3.1\Ntech.Domain.dll
+E:\LocalGit\CleanArchitecture\Ntech\Ntech\Ntech.Infrastructure.Shared\bin\Debug\netcoreapp3.1\Ntech.Application.pdb
+E:\LocalGit\CleanArchitecture\Ntech\Ntech\Ntech.Infrastructure.Shared\bin\Debug\netcoreapp3.1\Ntech.Domain.pdb
+E:\LocalGit\CleanArchitecture\Ntech\Ntech\Ntech.Infrastructure.Shared\obj\Debug\netcoreapp3.1\Ntech.Infrastructure.Shared.csprojAssemblyReference.cache
+E:\LocalGit\CleanArchitecture\Ntech\Ntech\Ntech.Infrastructure.Shared\obj\Debug\netcoreapp3.1\Ntech.Infrastructure.Shared.AssemblyInfoInputs.cache
+E:\LocalGit\CleanArchitecture\Ntech\Ntech\Ntech.Infrastructure.Shared\obj\Debug\netcoreapp3.1\Ntech.Infrastructure.Shared.AssemblyInfo.cs
+E:\LocalGit\CleanArchitecture\Ntech\Ntech\Ntech.Infrastructure.Shared\obj\Debug\netcoreapp3.1\Ntech.Infrastructure.Shared.csproj.CopyComplete
+E:\LocalGit\CleanArchitecture\Ntech\Ntech\Ntech.Infrastructure.Shared\obj\Debug\netcoreapp3.1\Ntech.Infrastructure.Shared.dll
+E:\LocalGit\CleanArchitecture\Ntech\Ntech\Ntech.Infrastructure.Shared\obj\Debug\netcoreapp3.1\Ntech.Infrastructure.Shared.pdb
+E:\LocalGit\CleanArchitecture\Ntech\Ntech\Ntech.Infrastructure.Shared\obj\Debug\netcoreapp3.1\Ntech.Infrastructure.Shared.csproj.CoreCompileInputs.cache

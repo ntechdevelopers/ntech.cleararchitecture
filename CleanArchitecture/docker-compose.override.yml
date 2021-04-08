@@ -1,0 +1,62 @@
+version: "3.7"
+
+services:
+ 
+  # citusdb:
+  #   restart: unless-stopped
+  #   environment:
+  #     - POSTGRES_DB=postgres
+  #     - POSTGRES_USER=postgres
+  #     - POSTGRES_PASSWORD=Ntech@123
+  #     - PGUSER="postgres"
+  #     - PGPASSWORD="Ntech@123"
+  #   ports:
+  #     - "5432:5432"
+
+  postgresql:
+    restart: unless-stopped
+    environment:
+      - POSTGRES_DB=postgres
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD="Ntech@123"
+    ports:
+      - "5432:5432"
+
+  rabbitmq:
+    restart: unless-stopped
+    ports:
+      - "15672:15672"
+      - "5672:5672"
+
+  elasticsearch:
+    restart: unless-stopped
+    environment:
+      - node.name=elasticsearch
+      - cluster.name=docker-cluster
+      - bootstrap.memory_lock=true
+      - "ES_JAVA_OPTS=-Xms512m -Xmx512m"
+      - discovery.type=single-node
+    ulimits:
+      memlock:
+        soft: -1
+        hard: -1
+    ports:
+      - "9200:9200"
+      - "9300:9300"
+
+  redis:
+    restart: always
+    ports:
+      - "6379:6379"
+      - "16379:16379"
+    environment:
+      - ALLOW_EMPTY_PASSWORD=yes
+      - DISABLE_COMMANDS=FLUSHDB,FLUSHALL,CONFIG
+
+  sqlserver:
+    restart: unless-stopped
+    environment:
+      - SA_PASSWORD=Ntech@123
+      - ACCEPT_EULA=Y
+    ports:
+      - "1433:1433"

@@ -1,0 +1,9 @@
+E:\LocalGit\CleanArchitecture\Ntech\Ntech\Ntech.Domain\bin\Debug\netstandard2.1\Ntech.Domain.deps.json
+E:\LocalGit\CleanArchitecture\Ntech\Ntech\Ntech.Domain\bin\Debug\netstandard2.1\Ntech.Domain.dll
+E:\LocalGit\CleanArchitecture\Ntech\Ntech\Ntech.Domain\bin\Debug\netstandard2.1\Ntech.Domain.pdb
+E:\LocalGit\CleanArchitecture\Ntech\Ntech\Ntech.Domain\obj\Debug\netstandard2.1\Ntech.Domain.csprojAssemblyReference.cache
+E:\LocalGit\CleanArchitecture\Ntech\Ntech\Ntech.Domain\obj\Debug\netstandard2.1\Ntech.Domain.AssemblyInfoInputs.cache
+E:\LocalGit\CleanArchitecture\Ntech\Ntech\Ntech.Domain\obj\Debug\netstandard2.1\Ntech.Domain.AssemblyInfo.cs
+E:\LocalGit\CleanArchitecture\Ntech\Ntech\Ntech.Domain\obj\Debug\netstandard2.1\Ntech.Domain.dll
+E:\LocalGit\CleanArchitecture\Ntech\Ntech\Ntech.Domain\obj\Debug\netstandard2.1\Ntech.Domain.pdb
+E:\LocalGit\CleanArchitecture\Ntech\Ntech\Ntech.Domain\obj\Debug\netstandard2.1\Ntech.Domain.csproj.CoreCompileInputs.cache

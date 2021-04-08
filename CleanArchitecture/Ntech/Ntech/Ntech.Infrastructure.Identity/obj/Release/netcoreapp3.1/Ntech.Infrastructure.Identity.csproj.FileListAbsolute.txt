@@ -1,0 +1,15 @@
+E:\LocalGit\CleanArchitecture\Ntech\Ntech\Ntech.Infrastructure.Identity\bin\Release\netcoreapp3.1\Ntech.Infrastructure.Identity.deps.json
+E:\LocalGit\CleanArchitecture\Ntech\Ntech\Ntech.Infrastructure.Identity\bin\Release\netcoreapp3.1\Ntech.Infrastructure.Identity.runtimeconfig.json
+E:\LocalGit\CleanArchitecture\Ntech\Ntech\Ntech.Infrastructure.Identity\bin\Release\netcoreapp3.1\Ntech.Infrastructure.Identity.runtimeconfig.dev.json
+E:\LocalGit\CleanArchitecture\Ntech\Ntech\Ntech.Infrastructure.Identity\bin\Release\netcoreapp3.1\Ntech.Infrastructure.Identity.dll
+E:\LocalGit\CleanArchitecture\Ntech\Ntech\Ntech.Infrastructure.Identity\bin\Release\netcoreapp3.1\Ntech.Infrastructure.Identity.pdb
+E:\LocalGit\CleanArchitecture\Ntech\Ntech\Ntech.Infrastructure.Identity\bin\Release\netcoreapp3.1\Ntech.Application.dll
+E:\LocalGit\CleanArchitecture\Ntech\Ntech\Ntech.Infrastructure.Identity\bin\Release\netcoreapp3.1\Ntech.Domain.dll
+E:\LocalGit\CleanArchitecture\Ntech\Ntech\Ntech.Infrastructure.Identity\bin\Release\netcoreapp3.1\Ntech.Application.pdb
+E:\LocalGit\CleanArchitecture\Ntech\Ntech\Ntech.Infrastructure.Identity\bin\Release\netcoreapp3.1\Ntech.Domain.pdb
+E:\LocalGit\CleanArchitecture\Ntech\Ntech\Ntech.Infrastructure.Identity\obj\Release\netcoreapp3.1\Ntech.Infrastructure.Identity.csprojAssemblyReference.cache
+E:\LocalGit\CleanArchitecture\Ntech\Ntech\Ntech.Infrastructure.Identity\obj\Release\netcoreapp3.1\Ntech.Infrastructure.Identity.AssemblyInfoInputs.cache
+E:\LocalGit\CleanArchitecture\Ntech\Ntech\Ntech.Infrastructure.Identity\obj\Release\netcoreapp3.1\Ntech.Infrastructure.Identity.AssemblyInfo.cs
+E:\LocalGit\CleanArchitecture\Ntech\Ntech\Ntech.Infrastructure.Identity\obj\Release\netcoreapp3.1\Ntech.Infrastructure.Identity.csproj.CopyComplete
+E:\LocalGit\CleanArchitecture\Ntech\Ntech\Ntech.Infrastructure.Identity\obj\Release\netcoreapp3.1\Ntech.Infrastructure.Identity.dll
+E:\LocalGit\CleanArchitecture\Ntech\Ntech\Ntech.Infrastructure.Identity\obj\Release\netcoreapp3.1\Ntech.Infrastructure.Identity.pdb

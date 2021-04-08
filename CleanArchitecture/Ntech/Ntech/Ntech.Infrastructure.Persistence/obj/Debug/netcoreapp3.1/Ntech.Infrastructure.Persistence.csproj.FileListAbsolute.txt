@@ -1,0 +1,14 @@
+E:\LocalGit\CleanArchitecture\Ntech\Ntech\Ntech.Infrastructure.Persistence\bin\Debug\netcoreapp3.1\Ntech.Infrastructure.Persistence.deps.json
+E:\LocalGit\CleanArchitecture\Ntech\Ntech\Ntech.Infrastructure.Persistence\bin\Debug\netcoreapp3.1\Ntech.Infrastructure.Persistence.dll
+E:\LocalGit\CleanArchitecture\Ntech\Ntech\Ntech.Infrastructure.Persistence\bin\Debug\netcoreapp3.1\Ntech.Infrastructure.Persistence.pdb
+E:\LocalGit\CleanArchitecture\Ntech\Ntech\Ntech.Infrastructure.Persistence\bin\Debug\netcoreapp3.1\Ntech.Application.dll
+E:\LocalGit\CleanArchitecture\Ntech\Ntech\Ntech.Infrastructure.Persistence\bin\Debug\netcoreapp3.1\Ntech.Domain.dll
+E:\LocalGit\CleanArchitecture\Ntech\Ntech\Ntech.Infrastructure.Persistence\bin\Debug\netcoreapp3.1\Ntech.Application.pdb
+E:\LocalGit\CleanArchitecture\Ntech\Ntech\Ntech.Infrastructure.Persistence\bin\Debug\netcoreapp3.1\Ntech.Domain.pdb
+E:\LocalGit\CleanArchitecture\Ntech\Ntech\Ntech.Infrastructure.Persistence\obj\Debug\netcoreapp3.1\Ntech.Infrastructure.Persistence.csprojAssemblyReference.cache
+E:\LocalGit\CleanArchitecture\Ntech\Ntech\Ntech.Infrastructure.Persistence\obj\Debug\netcoreapp3.1\Ntech.Infrastructure.Persistence.AssemblyInfoInputs.cache
+E:\LocalGit\CleanArchitecture\Ntech\Ntech\Ntech.Infrastructure.Persistence\obj\Debug\netcoreapp3.1\Ntech.Infrastructure.Persistence.AssemblyInfo.cs
+E:\LocalGit\CleanArchitecture\Ntech\Ntech\Ntech.Infrastructure.Persistence\obj\Debug\netcoreapp3.1\Ntech.Infrastructure.Persistence.csproj.CopyComplete
+E:\LocalGit\CleanArchitecture\Ntech\Ntech\Ntech.Infrastructure.Persistence\obj\Debug\netcoreapp3.1\Ntech.Infrastructure.Persistence.dll
+E:\LocalGit\CleanArchitecture\Ntech\Ntech\Ntech.Infrastructure.Persistence\obj\Debug\netcoreapp3.1\Ntech.Infrastructure.Persistence.pdb
+E:\LocalGit\CleanArchitecture\Ntech\Ntech\Ntech.Infrastructure.Persistence\obj\Debug\netcoreapp3.1\Ntech.Infrastructure.Persistence.csproj.CoreCompileInputs.cache

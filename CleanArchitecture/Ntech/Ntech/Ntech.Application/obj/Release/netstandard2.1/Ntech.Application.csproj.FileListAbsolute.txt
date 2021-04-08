@@ -1,0 +1,11 @@
+E:\LocalGit\CleanArchitecture\Ntech\Ntech\Ntech.Application\bin\Release\netstandard2.1\Ntech.Application.deps.json
+E:\LocalGit\CleanArchitecture\Ntech\Ntech\Ntech.Application\bin\Release\netstandard2.1\Ntech.Application.dll
+E:\LocalGit\CleanArchitecture\Ntech\Ntech\Ntech.Application\bin\Release\netstandard2.1\Ntech.Application.pdb
+E:\LocalGit\CleanArchitecture\Ntech\Ntech\Ntech.Application\bin\Release\netstandard2.1\Ntech.Domain.dll
+E:\LocalGit\CleanArchitecture\Ntech\Ntech\Ntech.Application\bin\Release\netstandard2.1\Ntech.Domain.pdb
+E:\LocalGit\CleanArchitecture\Ntech\Ntech\Ntech.Application\obj\Release\netstandard2.1\Ntech.Application.csprojAssemblyReference.cache
+E:\LocalGit\CleanArchitecture\Ntech\Ntech\Ntech.Application\obj\Release\netstandard2.1\Ntech.Application.AssemblyInfoInputs.cache
+E:\LocalGit\CleanArchitecture\Ntech\Ntech\Ntech.Application\obj\Release\netstandard2.1\Ntech.Application.AssemblyInfo.cs
+E:\LocalGit\CleanArchitecture\Ntech\Ntech\Ntech.Application\obj\Release\netstandard2.1\Ntech.Application.csproj.CopyComplete
+E:\LocalGit\CleanArchitecture\Ntech\Ntech\Ntech.Application\obj\Release\netstandard2.1\Ntech.Application.dll
+E:\LocalGit\CleanArchitecture\Ntech\Ntech\Ntech.Application\obj\Release\netstandard2.1\Ntech.Application.pdb
