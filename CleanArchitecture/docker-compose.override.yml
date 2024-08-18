@@ -7,7 +7,7 @@ services:
   #   environment:
   #     - POSTGRES_DB=postgres
   #     - POSTGRES_USER=postgres
-  #     - POSTGRES_PASSWORD=Ntech@123
+  #     - POSTGRES_PASSWORD=P@ssw0rd
   #     - PGUSER="postgres"
   #     - PGPASSWORD="Ntech@123"
   #   ports:
@@ -18,7 +18,7 @@ services:
     environment:
       - POSTGRES_DB=postgres
       - POSTGRES_USER=postgres
-      - POSTGRES_PASSWORD="Ntech@123"
+      - POSTGRES_PASSWORD="P@ssw0rd"
     ports:
       - "5432:5432"
 
@@ -56,7 +56,7 @@ services:
   sqlserver:
     restart: unless-stopped
     environment:
-      - SA_PASSWORD=Ntech@123
+      - SA_PASSWORD=P@ssw0rd
       - ACCEPT_EULA=Y
     ports:
       - "1433:1433"
